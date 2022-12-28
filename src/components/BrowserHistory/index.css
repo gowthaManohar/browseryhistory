@@ -1,0 +1,51 @@
+.bg-container {
+  height: 100vh;
+  background-color: white;
+}
+.top-container {
+  height: 20vh;
+  background-color: #3367d6;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.historyimg {
+  width: 150px;
+  color: white;
+}
+.searchimg {
+  width: 40px;
+  background-color: #2850a7;
+  padding: 10px;
+  border: solid 1px white;
+}
+.inputele {
+  background-color: #2850a7;
+  padding: 12px;
+  border: solid 1px white;
+  outline: none;
+  color: white;
+}
+.history-items-container {
+  background-color: white;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 20px;
+  list-style-type: none;
+}
+.ulitem-container {
+  padding: 30px;
+}
+.nohistory {
+  font-size: 20px;
+  font-weight: bold;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ipcontainer {
+  display: flex;
+  flex-direction: row;
+}

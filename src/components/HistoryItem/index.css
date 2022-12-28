@@ -1,0 +1,35 @@
+.time {
+  font-size: 20px;
+  margin-right: 30px;
+}
+.logo {
+  width: 20px;
+  height: 20px;
+  margin-top: 23px;
+  margin-right: 10px;
+}
+.title {
+  font-size: 20px;
+  margin-right: 10px;
+}
+.domainurl {
+  font-size: 20px;
+}
+.items-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.deleteimg {
+  width: 20px;
+  height: 20px;
+  margin-top: 25px;
+}
+.listitem-container {
+  display: flex;
+}
+.button {
+  background-color: white;
+  outline: none;
+  border: none;
+}
